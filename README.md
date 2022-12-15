@@ -12,4 +12,8 @@
 
   Diffusion de contenu en ligne (articles, posts sur les réseaux sociaux) avec des illustrations officielles.¶
 
-#### [Notebook du projet](https://www.kaggle.com/code/robertojustino/projet-fastai-notebook)
+#### [Notebook du projet / lien kaggle](https://www.kaggle.com/code/robertojustino/projet-fastai-notebook)
+
+#### [Notebook du projet / lien github](projet-fastai-notebook.ipynb)
+
+#### [Application de prédiction - Anime Official Image Classifier](https://huggingface.co/spaces/Roberto8/projet-fastAI)
