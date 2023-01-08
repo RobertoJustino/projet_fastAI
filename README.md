@@ -12,7 +12,7 @@
 
   Diffusion de contenu en ligne (articles, posts sur les réseaux sociaux) avec des illustrations officielles.¶
 
-#### [Notebook du projet / lien kaggle](https://www.kaggle.com/code/robertojustino/projet-fastai-notebook)
+#### [Notebook du projet / lien kaggle](https://www.kaggle.com/code/robertojustino/projet-fastai-notebook) - Préférez ce lien pour les visuels
 
 #### [Notebook du projet / lien github](projet-fastai-notebook.ipynb)
 
