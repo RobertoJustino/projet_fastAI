@@ -16,6 +16,6 @@
 
 #### [Notebook du projet / lien github](projet-fastai-notebook.ipynb)
 
-#### [Application de prédiction - Anime Official Image Classifier](https://huggingface.co/spaces/Roberto8/projet-fastAI)
+#### [Application de prédiction déployé sur Huggingface - Anime Official Image Classifier](https://huggingface.co/spaces/Roberto8/projet-fastAI)
 
 #### [Application de détection - Algorythme YOLOV5](https://colab.research.google.com/drive/1tc0oiF2tnyD1sffXuapvAO7PahMfwcgL?usp=sharing) - TEST (non lié au projet)
