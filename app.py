@@ -1,5 +1,8 @@
+import matplotlib
+matplotlib.use('Agg')
 import gradio as gr
 from fastai.vision.all import *
+from PIL.Image import Resampling
 
 learn = load_learner('export.pkl')
 
@@ -14,4 +17,4 @@ description = "<p style='text-align: center'>Identifier si une image provenant d
 
 demo = gr.Interface(fn=predict, title=title, description=description, examples = ['anime-official.jpg', 'anime-fan-art.jpg'], inputs=gr.Image(shape=(512, 512)), outputs=gr.Label(num_top_classes=2))
 
-demo.launch()
+demo.launch(debug=True)

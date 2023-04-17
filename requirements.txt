@@ -1,1 +1,4 @@
 fastai
+gradio
+uvicorn
+Pillow
